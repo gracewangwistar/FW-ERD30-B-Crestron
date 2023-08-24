@@ -1,5 +1,8 @@
-# FW-ERD30-B-Crestron
-This is a folder for latest FW for Crestron and Wistar.
+# ERD30-B-Crestron FW Update list
 
-Update Note:  [Enter]
-V1.0.1               Speed-level Modify          
+ ##  Update List:    
+|Version|Mark|Date|
+|-|-|-|
+|V1.0.1|Speed-Level Modify|2023-08-24|
+
+- ## Tips:
