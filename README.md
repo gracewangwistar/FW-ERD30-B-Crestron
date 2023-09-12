@@ -8,6 +8,6 @@
  ## Notes: 
 * `Crestron FW`:FW provided from Crestron for CC1312.  
 * `History FW`:FW during sample test period.  
-* `Latest FW`:FW after EVT stage.  
+* `Latest FW`:FW(include BOOT) after EVT stage.  
 * `OTA File`:data package for OTA. 
  ##  Copyright © 2023, Wistar, Co,. Ltd. All Rights Reserved.
